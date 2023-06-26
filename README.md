@@ -1,5 +1,11 @@
-# 👋 Hello! Have a fumo :)
-
+# 👋 Hello!
+Hello! My name is Qiang, also known as jiansu or sanamorii.  
+- I'm a university student studying BSc Computer Science.
+- I am currently working on [Citrus Engine](https://github.com/sanamorii/citrus/) and [Irisu](https://github.com/sanamorii/irisu). Feel free to check them out.
+- My main interests are in generally in backend development, operating systems, computer graphics, and cyber security. Besides CS, I like art and design.
+- Currently I am learning Rust, C#, and Haskell.
+Check out my portfolio @ [jiansu.dev](https://jiansu.dev)
+# Have a fumo :)
 ```
 ⠀⠀⠀⣠⠤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⠀
 ⠀⠀⡜⠁⠀⠈⢢⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠋⠷⠶⠱⡄
@@ -26,18 +32,3 @@
 ⠀⠑⠸⢿⠀⠀⠀⠀⢈⡗⠭⣖⡒⠒⢊⣱⠀⠀⠀⠀⢨⠟⠂⠚⠋⠀
 ⠀⠀⠀⠘⠦⣄⣀⣠⠞⠀⠀⠀⠈⠉⠉⠀⠳⠤⠤⡤⠞⠀⠀⠀⠀⠀
 ```
-
-<!--
-**sanamorii/sanamorii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on: Nothing :^)
-- 🌱 I’m currently learning: Everything
-- 👯 I’m looking to collaborate on: Nothing
-- 🤔 I’m looking for help with: Everything
-- 💬 Ask me about: Anything idk
-- 📫 How to reach me: discord
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i am suffering
--->
