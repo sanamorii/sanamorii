@@ -11,9 +11,9 @@
 <hr>
 
 <br>
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sanamorii&theme=tokyonight">
-</p>
+</p> -->
 <h3 align="center">Check out my <a href="https://jiansu.dev">portfolio website!</a></h3>
 
 </samp>
