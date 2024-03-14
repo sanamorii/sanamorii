@@ -1,6 +1,6 @@
 <samp>
 <p align="center">
-<img width="256px" height="256px" style="border: solid lightgray 5px; border-radius: 256px;" src="touhou-sakuya.gif">
+<img width="256px" height="256px" style="border: solid lightgray 5px; border-radius: 256px;" src="fumo.gif">
 </p>
 <h3 align="center">Hello! My name is <a href="https://jiansu.dev">Qiang Cai</a> 👋</h3>
 <ul>
