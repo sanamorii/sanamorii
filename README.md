@@ -14,6 +14,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sanamorii&theme=tokyonight">
 </p> -->
-<h3 align="center">Check out my <a href="https://jiansu.dev">portfolio website!</a></h3>
+<h3 align="center"><a href="https://jiansu.dev">sanamorii.com</a></h3>
 
 </samp>
