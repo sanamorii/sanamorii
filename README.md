@@ -5,15 +5,12 @@
 <h3 align="center">Hello! My name is Qiang Cai👋</h3>
 <ul>
     <li>I am a BSc Computer Science student @ <a href="https://cs.nott.ac.uk">University of Nottingham</a></li>
-    <li>My main interests are generally in backend development such as embedded programming and operating systems; and other things like hardware emulation, computer graphics, and functional programming.</li>
-    <li>I am also a hobbyist artist.
+    <li>My main interests is whatever makes a cool thing like computer graphics, operating systems/embedded programming/fpgas, artifical intelligence, hardware emulation, etc.</li>
+    <li>I am a hobbyist artist.</li>
+    <li>I will live and die by C/C++</li>
 </ul>
 <hr>
 
-<!-- <br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sanamorii&theme=tokyonight">
-</p> -->
-<h3 align="center"><a href="https://sanamorii.com">sanamorii.com</a></h3>
+<h3 align="center"><a href="https://qiangcai.co.uk">qiangcai.co.uk</a></h3>
 
 </samp>
