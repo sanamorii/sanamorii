@@ -9,7 +9,7 @@ Hello, my name is Qiang. I like to make things, particularly in:
 - Computer Graphics
 - Electronics and Embedded Systems
 - Linux, Operating Systems, Low Level Development, etc.
-- Artificial Intelligence and Machine Learning (useful AI, not any of this gen/agentic AI slop)
+- Artificial Intelligence and Machine Learning
 
 <hr>
 
