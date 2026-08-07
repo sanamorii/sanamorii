@@ -13,8 +13,5 @@ Hello, my name is Qiang. I like to make things, particularly in:
 
 <hr>
 
-Most of my work is on a [private git repository](https://git.jiansu.dev) because I do not like microsoft :^). Public repositories are mirrored here on a somewhat regular basis but please visit my website for up-to-date repositories.
-
 <h3 align="center"><a href="https://qiangcai.co.uk">qiangcai.co.uk</a></h3>
-
 </samp>
