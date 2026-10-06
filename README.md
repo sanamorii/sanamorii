@@ -2,13 +2,15 @@
 
 <hr>
 
-Hello, my name is **Qiang**. I am a Software Engineer and hobbyist illustrator, who also occasionally makes things. What things? Many things but I do post about them below :)
-
-<a href="https://qiangcai.co.uk">qiangcai.co.uk</a>
-
+<p align="center">Hello, my name is <b>Qiang</b>. I am a Software Engineer and hobbyist illustrator, who also occasionally makes things. </p>
 <hr>
-
 <p align="center">
 <img width="128px" height="128px" style="border: solid lightgray 5px; border-radius: 256px;" src="fumo.gif">
+  <br>
+<a href="https://qiangcai.co.uk">qiangcai.co.uk</a>
 </p>
+<p align="center"></p>
+<hr>
+
+
 </samp>
