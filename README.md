@@ -2,7 +2,7 @@
 
 <hr>
 
-Hello, my name is **Qiang**. I am a Software Engineer who occasionally makes things. I mainly am interested in: <i>Art, Filmmaking, and another Creative Media; Computer Graphics; Electronics, Linux, all things systems programming and computer architecture; Artificial Intelligence and Machine Learning</i>. But I like to do other things too.
+Hello, my name is **Qiang**. I am a Software Engineer and hobbyist illustrator, who also occasionally makes things. What things? Many things but I do post about them below :)
 
 <a href="https://qiangcai.co.uk">qiangcai.co.uk</a>
 
